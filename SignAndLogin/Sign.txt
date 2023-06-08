@@ -1,0 +1,12 @@
+--- 1 User`s informations ---
+Fullname: hojianvar
+User name: anvar
+Password: khojik2000
+Phone number: 998946151006
+
+--- 1 User`s informations ---
+Fullname: Quvonchbekjon
+User name: quvonch
+Password: 1234
+Phone number: 998946151007
+
